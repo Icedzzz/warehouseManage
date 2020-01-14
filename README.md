@@ -1,0 +1,2 @@
+# warehouseManage
+springboot+layui+shiro
